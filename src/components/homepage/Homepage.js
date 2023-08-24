@@ -15,10 +15,10 @@ function Homepage() {
         <p>Hi, I'M MICHAEL</p>
         <h1>React Developer</h1>
         <div>
-          <Link to="/project" className="btn">
+          <Link to="/portfolio" className="btn">
             PROJECTS
           </Link>
-          <Link to="/project" className="btn btn-light">
+          <Link to="/contact" className="btn btn-light">
             CONTACT
           </Link>
         </div>
